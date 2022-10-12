@@ -1,17 +1,10 @@
 ### Readme.md for Functional HTTP Web Server - PA1 - COEN 317
 
-- **Name:** Jiehui Ma
-
-
-
-- **Assignment Name:** PA1 - A Python HTTP web server based on socket and thread library
+A Python HTTP web server based on socket and thread library
   
-  
-
 - **High-level Description:**  
 
   This web server listens for connections on a socket bounded to a port assigned by client on localhost. Clients can connect to this server and retrieve text, image files, html files from the server using GET method. The server also supports multiple threads enabling different ports of clients using a multi-threading approach in Python.
-  
   
   
 - **List of Submitted Files:**
@@ -48,23 +41,7 @@
   
    `python3 server.py [port name between 8000-9000]`
    
-   
-
-- **How my client is making requests:**
-
-  - Sample Request Log: (Full can be viewed in 'Request Log.md')
-    (Wed Oct 12 06:14:48 2022) - GET - /index.html
-    
-    (Wed Oct 12 06:14:48 2022) - GET - /files/gzb
-    
-    (Wed Oct 12 06:14:48 2022) - GET - /files/all.css
-    
-    (Wed Oct 12 06:14:48 2022) - GET - /files/scu.css
-    
-    ....
-   
-   
-   
+  
    
 - **Snapshots of how web servers accessing my server:**
 
