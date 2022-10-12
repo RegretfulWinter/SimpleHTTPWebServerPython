@@ -2,7 +2,7 @@
   
 - **High-level Description:**  
 
-  This web server listens for connections on a socket bounded to a port assigned by client on localhost. Clients can connect to this server and retrieve text, image files, html files from the server using GET method. The server also supports multiple threads enabling different ports of clients using a multi-threading approach in Python.
+  This web server listens for connections on a socket bounded to a port assigned by client on localhost. Clients can connect to this server and retrieve text, image files, html files of the sample webpage, www.scu.edu, from this server using GET method. The server also supports multiple threads enabling different ports of clients using a multi-threading approach in Python.
   
   
 - **List of Submitted Files:**
