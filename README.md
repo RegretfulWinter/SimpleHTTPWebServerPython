@@ -12,7 +12,6 @@
 
 
 - **How my client is making requests:**
-  - 
   - Sample Request Log: (Full can be viewed in 'Request Log.md')
     (Wed Oct 12 06:14:48 2022) - GET - /index.html
     (Wed Oct 12 06:14:48 2022) - GET - /files/gzb
