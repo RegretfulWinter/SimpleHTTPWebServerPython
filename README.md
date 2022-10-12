@@ -1,9 +1,13 @@
-# Python Webserver
-Tiny webserver written in pure Python that can serve static html pages with images and stylesheets. No dependencies, just standard library. Written in Python 3.9 but could work under 2.7 with small changes.
+- Name: Jiehui Ma
 
-Made for educational purposes to understand how HTTP works as well as how to send and receive TCP packets with low-level `socket` library.
+- Assignment Name: PA1 - A Python HTTP web server based on socket and thread library
 
-## How to run
-In terminal type `python server.py [port]`
+- High-level Description: This web server listens for connections on a socket bounded to port 8089 on localhost. Clients can connect to this server and retrieve text, image files, html files from the server using GET method. The server also supports multiple threads enabling different ports of clients using a multi-threading approach in Python.
+
+- List of Submitted Files:
+
+- Instructions on how to run my program:
+
+- How my client is making requests:
 
 
