@@ -1,6 +1,4 @@
-### Readme.md for Functional HTTP Web Server - PA1 - COEN 317
-
-A Python HTTP web server based on socket and thread library
+### A multithreaded functional HTTP web server based on socket programming in Python
   
 - **High-level Description:**  
 
